@@ -9,8 +9,8 @@ Our mission is to adapt a general-purpose LLM to resonate with the curriculum an
 ## Data Collection
 
 ### Internal Data Sources:
-- **Yashas**: Uploading all CSCI 1133 materials from three distinct classes to the `trainingf` folder on our GitHub repository.
-- **Tim**: Converting the existing data in the `trainingf` folder into a CSV format for easier processing.
+- **Yashas**: Uploading all CSCI 1133 materials from three distinct classes to the `data` folder on our GitHub repository.
+- **Tim**: Converting the existing data in the `data` folder into a CSV format for easier processing.
 
 ### External Data Sources:
 To enrich the model's understanding, we're incorporating external datasets:
