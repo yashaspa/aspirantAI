@@ -56,3 +56,7 @@ We've selected **CodeBERT**. Tailored for code-related tasks, CodeBERT provides 
 ### Deployment:
 - **API Creation**: Wrapping the model inside an API for easy integration into applications or platforms.
 - **Continuous Monitoring**: Regularly monitoring the model's performance in real-world scenarios and collecting feedback for iterative improvement.
+
+## Hugging Face AutoTrain Experimentation
+
+Alongside our primary training methods, we experimented with Hugging Face's AutoTrain to evaluate its efficacy for our project. AutoTrain provided an automated approach to model training, and we wanted to assess its ease of use and performance outcomes for our specific use case.
