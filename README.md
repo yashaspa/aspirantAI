@@ -21,7 +21,7 @@ To enrich the model's understanding, we're incorporating external datasets:
   - [SQL Knowledge Dataset from Hugging Face](https://huggingface.co/datasets/knowrohit07/know_sql)
 
 ## Model Architecture
-We've selected **CodeBERT**. Tailored for code-related tasks, CodeBERT provides a deep understanding of programming languages and code syntax.
+We've selected **Code LLama**. Tailored for code-related tasks, Code Llama provides a deep understanding of programming languages and code syntax.
 
 ## Evaluation
 
